@@ -1,0 +1,35 @@
+.card {
+  background: white;
+  padding: 15px;
+  border: 1px solid #ddd;
+}
+
+.img {
+  height: 150px;
+  background: #ccc;
+  margin-bottom: 10px;
+}
+
+.desc {
+  font-size: 13px;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.card-footer {
+  display: flex;
+  justify-content: space-between; /* 👈 precio izquierda */
+  align-items: center;
+}
+
+.price {
+  font-weight: bold;
+}
+
+.card button {
+  background: #111;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  cursor: pointer;
+}

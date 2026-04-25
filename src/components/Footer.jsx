@@ -29,6 +29,7 @@ const Footer = () => {
           <p>Instagram</p>
         </div>
       </div>
+      <hr />
 
       <p className="copy">© 2024 Urban Threads</p>
     </footer>

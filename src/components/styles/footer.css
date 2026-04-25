@@ -1,0 +1,17 @@
+.footer {
+  background: linear-gradient(to right, #111, #2b2b2b);
+  color: white;
+  padding: 40px 0;
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.copy {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 12px;
+}

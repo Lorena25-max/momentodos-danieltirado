@@ -1,0 +1,23 @@
+.form-card input,
+.form-card select,
+.form-card textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.row {
+  display: flex;
+  gap: 10px;
+}
+
+textarea {
+  height: 100px;
+}
+
+.form-card button {
+  background: #f5a623;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
